@@ -1,0 +1,4 @@
+[x] Starting local process '/usr/bin/nc'
+[+] Starting local process '/usr/bin/nc': pid 1218
+b'Please input your token: '>
+[*] Stopped process '/usr/bin/nc' (pid 1218)

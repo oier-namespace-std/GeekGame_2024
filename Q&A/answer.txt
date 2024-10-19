@@ -1,0 +1,19 @@
+贺清华大学建校100周年
+pku-lostangel.oss-cn-beijing.aliyuncs.com
+12
+5.2.1
+28.6
+通州北关
+
+-------------------End Answer--------------------
+
+P1：Web 搜索。
+P2：抓本地请求包。
+P3：Wikipedia。
+P4：翻项目底下的开源声明找到源仓库。
+P5: db(x) := 60(lg(x) - 2)，参数需要用 Ubuntu 虚拟机试出来。（https://linux.cn/article-15250-1.html） Ans = 60lg3 ~ 28.6272 ...
+P6：Web 搜索。
+
+flag #1 = flag{tp-link-forever}
+flag #2 = flag{CUZ WE ARE TOP OF THE TOP, TOP OF THE WORLD}
+
